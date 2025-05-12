@@ -14,9 +14,9 @@
 - **Functionality:**
   - Input a number.
   - Uses the math module to calculate the:
-    -- Square root of the number
-    -- Natural logarithm (log base e) of the number
-    -- Sine of the number (in radians)
+    - Square root of the number
+    - Natural logarithm (log base e) of the number
+    - Sine of the number (in radians)
   - Displays the calculated results.
 
 
