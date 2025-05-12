@@ -1,4 +1,4 @@
-# Assignment 2: Basic Python Programs
+# Assignment 2: Control Structures in Python
 
 ## Functionality Overview
 
